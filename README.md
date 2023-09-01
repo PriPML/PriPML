@@ -1,7 +1,7 @@
 ### Olá, eu sou a Priscila 👋
 
 - Hello!! I'm a Software Developer Full Stack!
-- Working mainly with PHP, framework Laravel and SQL databases, Javascript is my favorite programming language.
+- Working mainly with PHP, framework Laravel, SQL databases and Javascript.
 
 ##
 <div align="center">
@@ -24,6 +24,6 @@
   
 ##
   <div> 
-  <a href = "mailto:priscila_m@live.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/priscilap/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:priscila_pm@live.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/priscilap/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
